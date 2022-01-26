@@ -9,6 +9,8 @@
 - Калуга
 - https://github.com/Dubrovskiy40
 - dubrovskiy.ru@mail.ru
+- https://www.linkedin.com/in/anatoliy-dubrovskiy-817889198/
+- https://www.codewars.com/users/Dubrovskiy
 
 ## Навыки
 В репозиториях представлены некоторые работы, список буду дополнять. 
