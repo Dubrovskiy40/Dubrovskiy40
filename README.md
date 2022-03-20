@@ -1,8 +1,8 @@
-# Дубровский Анатолий
-## Frontend-разработчик
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
+# Дубровский Анатолий
+## Frontend-разработчик
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
+
 ### :woman_technologist: Рассматриваю смену профессии в сторону фронтенд-разработки. В перспективе - освоение backend. В настоящее время учусь в GeekBrains на факультете Geek University Frontend-разработки. Ищу возможность применять и закреплять полученные знания на практике. Готов выполнить тестовое задание, чтобы продемонстрировать уровень навыков.
 
 
@@ -37,6 +37,7 @@
 Ниже приведено краткое описание навыков. Готов более детально обсудить технологии на собеседовании.
 
 ### HTML
+
 - знаю понятие потока документа;
 - знаю отличие блочного и строчного элементов;
 - использую HTML-теги в соответствии с их семантикой;
@@ -48,7 +49,10 @@
 - знаю базовые принципы БЭМ;
 - scss.
 
-### JavaScript 
+### JavaScript
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 - знаю базовые структуры данных JS;
 - умею работать с асинхронными функциями;
 - использую современные возможности ECMAScript 2015+.
