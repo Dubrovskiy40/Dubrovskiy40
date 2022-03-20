@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
-<h1>Дубровский Анатолий</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1>Дубровский Анатолий</h1>
 <span>Frontend-разработчик</span> 
 
 ### :woman_technologist: Рассматриваю смену профессии в сторону фронтенд-разработки. В перспективе - освоение backend. В настоящее время учусь в GeekBrains на факультете Geek University Frontend-разработки. Ищу возможность применять и закреплять полученные знания на практике. Готов выполнить тестовое задание, чтобы продемонстрировать уровень навыков.
-
-<!-- ![Header](https://github.com/Dubrovskiy40/dubrovskiy40/blob/main/assets/download.gif) --> 
 
 ### Контакты
 - Калуга
