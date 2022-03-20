@@ -1,4 +1,19 @@
-![Header](https://github.com/Dubrovskiy40/dubrovskiy40/blob/main/assets/download.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://Dubrovskiy40/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<!-- ![Header](https://github.com/Dubrovskiy40/dubrovskiy40/blob/main/assets/download.gif) -->
 
 # Дубровский Анатолий
 ## Frontend-разработчик
