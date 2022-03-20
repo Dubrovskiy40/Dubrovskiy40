@@ -69,7 +69,7 @@
 ### Tools
 Использую Windows 10 в качестве рабочей ОС.&nbsp; Есть опыт использования <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Java" alt="Java" width="40" height="40"/> Figma для работы с дизайн-макетами.&nbsp; 
 Использую редактор <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSC" alt="VSC" width="40" height="40"/> Visual Studio Code с плагинами для автоматического форматирования и проверки кода/&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WS" alt="WS" width="40" height="40"/> WebStorm&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WS" alt="WS" width="40" height="40"/> WebStorm&nbsp;<br/> 
 Есть опыт командной разработки с использованием программ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/> JIRA и <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/> TRELLO&nbsp;
 
 ### Английский
