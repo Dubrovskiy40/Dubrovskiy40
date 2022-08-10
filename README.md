@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
 <h1>Дубровский Анатолий</h1>
-<span>Frontend-разработчик</span> 
 
-### :woman_technologist: Frontend-разработчик. В перспективе планирую освоение backend. Ищу возможность закреплять и улучшать полученные знания.
+### :woman_technologist: Frontend-разработчик. 
+В перспективе планирую освоение backend. Ищу возможность закреплять и улучшать полученные знания.
 В репозиториях https://github.com/Dubrovskiy40 представлены некоторые работы, список буду дополнять.
 Являюсь наставником в GeekBrains на курсах: HTML, CSS, JavaScript, React. Помогаю студентам с возникшими вопросами в выполнении домашних заданий.
 Дополнительно улучшаю навык алгоритмического мышления, решаю задачки на codewars, профиль: https://www.codewars.com/users/Dubrovskiy
