@@ -1,3 +1,5 @@
+[RSSCHOOL-CV](https://dubrovskiy40.github.io/rsschool-cv/ "RSSCHOOL-CV")
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
@@ -47,15 +49,13 @@
 - умею создавать пулл реквесты;
 - использую подход "один коммит, одна задача".
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> MySQL, 
+  ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "MySQL"), 
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> PHP, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/> Redis, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> Linux, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/> Node.js, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE.js" alt="VUE.js" width="40" height="40"/> Vue.js, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> Инструменты сборки Web-проектов
-</div>
 - общее представление;
 
 ### Tools
@@ -78,6 +78,3 @@ Frontend-разработчик
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dubrovskiy40&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubrovskiy40&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://dubrovskiy40.github.io/rsschool-cv/">Link CV</a>
-
