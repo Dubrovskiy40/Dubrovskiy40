@@ -49,7 +49,7 @@
 - умею создавать пулл реквесты;
 - использую подход "один коммит, одна задача".
 
-  ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "MySQL" width="40" height="40"), 
+  ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "MySQL" =40x40), 
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> PHP, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/> Redis, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> Linux, 
