@@ -59,7 +59,7 @@
 - общее представление;
 
 ### Tools
-Использую Windows 10 в качестве рабочей ОС.&nbsp; Есть опыт использования <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Java" alt="Java" width="40" height="40"/> Figma для работы с дизайн-макетами.&nbsp; 
+Использую Windows 10 в качестве рабочей ОС.&nbsp; Есть опыт использования <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> Figma для работы с дизайн-макетами.&nbsp; 
 Использую редактор <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSC" alt="VSC" width="40" height="40"/> Visual Studio Code с плагинами для автоматического форматирования и проверки кода/&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WS" alt="WS" width="40" height="40"/> WebStorm&nbsp;<br/> 
 Есть опыт командной разработки с использованием программ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/> JIRA и <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/> TRELLO&nbsp;
@@ -78,4 +78,6 @@ Frontend-разработчик
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dubrovskiy40&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubrovskiy40&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://Dubrovskiy40.github.io/rsschool-cv/cv">Link CV</a>
 
