@@ -37,7 +37,7 @@
 - умею работать с асинхронными функциями;
 - использую современные возможности ECMAScript 2015+.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/> Angular&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/> React&nbsp;
 - умею программировать в реактивном стиле;
 - умею обмениваться данными через сервисы;
 - умею управлять состоянием компонентов при помощи React Hooks.
