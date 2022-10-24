@@ -37,10 +37,16 @@
 - умею работать с асинхронными функциями;
 - использую современные возможности ECMAScript 2015+.
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/> Angular&nbsp;
+- умею программировать в реактивном стиле;
+- умею обмениваться данными через сервисы;
+- умею управлять состоянием компонентов при помощи React Hooks.
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/> React&nbsp;
+- cоздание приложений из компонентов и автоматизация работы через Angular;
 - умею создавать приложения при помощи Create React App;
 - умею создавать отдельные страницы при помощи React Router;
-- умею управлять состоянием компонентов при помощи React Hooks.
+- использую Redux, NgRx и NgXs.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> Git&nbsp;
 - знаю основные команды git;
