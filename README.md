@@ -42,7 +42,7 @@
 - умею обмениваться данными через сервисы;
 - умею управлять состоянием компонентов при помощи React Hooks.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/> React&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/> Angular&nbsp;
 - cоздание приложений из компонентов и автоматизация работы через Angular;
 - умею создавать приложения при помощи Create React App;
 - умею создавать отдельные страницы при помощи React Router;
@@ -72,9 +72,15 @@ Frontend-разработчик
 ## Образование
 2008, МГТУ им. Н.Э. Баумана. Инженер сварочного производства.
 
-## Предыдущий опыт работы
-ГБУ "Региональный центр энергоэффективности"
-2014 - Главный специалист;
+## Предыдущий опыт работы:
+АО "Лаборатория цифрового развития" Junior frontend-разработчик
+09.2022-по н.в.;
+
+ГК "Земля-Сервис" Junior frontend-разработчик
+06.2022-09.2022;
+
+ГБУ "Региональный центр энергоэффективности" Главный специалист
+03.2014-05.2022;
 
 ### :fire: My Stats :
 
